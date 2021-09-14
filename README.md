@@ -4,8 +4,7 @@ Requirements:
 
 * DB ---------->>> Mysql version 8.0.26
 * OS ---------->>> Ubuntu 21.04
-* Language ---->>> PHP 8.0.10
-                   HTML5, CSS, JS
+* Language ---->>> PHP 8.0.10, HTML5, CSS, JS
 * Server ------>>> Apache/2.4.46
 
 Login to mysql:
